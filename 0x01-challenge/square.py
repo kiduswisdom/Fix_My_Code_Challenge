@@ -75,4 +75,3 @@ if __name__ == "__main__":
     print(a.area())
     print(a.perimeter())
     print(a.__str__())
-
